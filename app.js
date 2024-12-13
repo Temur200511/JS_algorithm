@@ -27,8 +27,6 @@
 
 
 
-
-
 // function engKattaK(n) {
 //     let k = 0;
 //     while ((k + 1) ** 2 <= n) {
